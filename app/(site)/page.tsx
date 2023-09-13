@@ -12,7 +12,7 @@ export default function Home() {
           className="mx-auto w-auto"
           src="/images/logo.png"
         />
-        <h2 className="mt-2 text-center text-gray-900 tracking-tight font-bold text-3xl ">
+        <h2 className="mt-2 text-center text-gray-900 tracking-tight font-bold text-3xl">
           Sign In to your account
         </h2>
       </div>
