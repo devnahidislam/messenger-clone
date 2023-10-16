@@ -31,10 +31,10 @@ const Header: React.FC<HeaderProps> = ({
       w-full
       flex
       border-b-[1px]
-      sm: px-4
+      sm:px-4
       py-3
       px-4
-      lg: px-6
+      lg:px-6
       justify-between
       items-center
       shadow-sm
